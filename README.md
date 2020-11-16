@@ -7,7 +7,7 @@ viewed in a graphical Emacs instance with SVG support.
 
 ## Installation
 
-Install via `package.el` from [Marmalade] or [MELPA] or [MELPA Stable].
+Install via `package.el` from [MELPA] or [MELPA Stable].
 
 ## Usage
 
@@ -64,7 +64,6 @@ the backtrace plus further information on your Emacs build, operating
 system, origin and version of zone-nyan.
 
 [image]: img/screencast.gif
-[Marmalade]: https://marmalade-repo.org/
 [MELPA]: https://melpa.org/
 [MELPA Stable]: https://stable.melpa.org
 [the original music]: http://www.nyan.cat/music/original.mp3
