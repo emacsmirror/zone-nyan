@@ -6,7 +6,7 @@
 ;; URL: https://depp.brause.cc/zone-nyan
 ;; Version: 0.2.2
 ;; Package-Requires: ((esxml "0.3.1"))
-;; Keywords: zone
+;; Keywords: games
 
 ;; This file is NOT part of GNU Emacs.
 
